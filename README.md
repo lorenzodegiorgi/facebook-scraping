@@ -62,7 +62,7 @@ Be sure that the version of Chromedriver is the same one of your Chrome applicat
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/lorenzodegiorgi/facebook-scraping
    ```
    
 2. Install libraries
